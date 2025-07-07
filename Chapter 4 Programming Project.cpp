@@ -53,8 +53,5 @@ int main()
 	//Outputting days
 	std::cout << "\n" << days << " days" << endl;
 
-
-
-
-
+	return 0;
 }
